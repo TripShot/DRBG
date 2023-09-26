@@ -30,7 +30,7 @@ Library
                  , crypto-api >= 0.13
                  , cryptohash-cryptoapi >= 0.1
                  , parallel
-                 , mtl >= 2.0 && < 2.3
+                 , mtl >= 2.0 && < 2.4
                  , cipher-aes128 >= 0.6
                  , entropy
   ghc-options: -O2

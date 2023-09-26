@@ -95,7 +95,6 @@ import System.Entropy
 import qualified Data.ByteString as B
 import Data.Tagged
 import Control.Parallel
-import Control.Monad.Error () -- Either instance
 import Data.Word
 
 instance H.SeedLength SHA512 where
